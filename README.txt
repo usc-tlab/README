@@ -2,7 +2,7 @@
 Every published figure, table, statistical statement is linked to the code and raw 
 data that generated them.
 
-==Proctice==
+==Practice==
 To get as close to the ideal as possible.
 
 ==Repository on GitHub==
